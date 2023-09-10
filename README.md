@@ -3,7 +3,7 @@
 ### Sou um estudante de front-end
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NORYon&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NORYoni&show_icons=true&theme=merko)
 
 
 ##
